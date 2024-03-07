@@ -52,6 +52,6 @@ I excel in collaborative environments and believe in taking ownership of tasks t
 ## Contact Me
 I am currently seeking challenging and rewarding software development opportunities where I can continue to learn and grow. If you're interested in connecting or discussing potential collaborations, please don't hesitate to reach out:
 
-[LinkedIn]((https://www.linkedin.com/in/manavgandhi27)) | [GitHub](https://github.com/27manavgandhi/) | [Email](27manavgandhi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/manavgandhi27) | [GitHub](https://github.com/27manavgandhi/) | [Email](27manavgandhi@gmail.com)
 
 Thank you for visiting the Google Drive Clone project repository! Let's innovate together. 🚀
