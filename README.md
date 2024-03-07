@@ -4,10 +4,10 @@ Welcome to the Google Drive Clone project repository! This project aims to repli
 
 ## Demos
 
-!(https://github.com/27manavgandhi/Google-Drive-Clone/assets/77005766/ce3e0bfc-5550-4a1a-8e2e-5064186eda6a)
-!(https://github.com/27manavgandhi/Google-Drive-Clone/assets/77005766/2b32fb5b-efd0-4df5-b1f5-77e819d8c49a)
-!(https://github.com/27manavgandhi/Google-Drive-Clone/assets/77005766/fa215cf9-9592-45b5-a00d-185a9aa43832)
-!(https://github.com/27manavgandhi/Google-Drive-Clone/assets/77005766/de9283a8-a223-44ce-9e9f-0b01aee5c88e)
+![](https://github.com/27manavgandhi/Google-Drive-Clone/assets/77005766/ce3e0bfc-5550-4a1a-8e2e-5064186eda6a)
+![](https://github.com/27manavgandhi/Google-Drive-Clone/assets/77005766/2b32fb5b-efd0-4df5-b1f5-77e819d8c49a)
+![](https://github.com/27manavgandhi/Google-Drive-Clone/assets/77005766/fa215cf9-9592-45b5-a00d-185a9aa43832)
+![](https://github.com/27manavgandhi/Google-Drive-Clone/assets/77005766/de9283a8-a223-44ce-9e9f-0b01aee5c88e)
 
 
 
